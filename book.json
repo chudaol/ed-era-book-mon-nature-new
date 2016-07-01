@@ -1,6 +1,6 @@
 {
     "gitbook": ">=3.0.0-pre.11",
-    "title": "EdEra Mon Math",
+    "title": "Природознавство",
     "plugins": ["-search", "fontsettings", "sharing", "addcssjs", "quiz", "mathjax", "-comments"],
     "pluginsConfig": {
         "theme-default": {
