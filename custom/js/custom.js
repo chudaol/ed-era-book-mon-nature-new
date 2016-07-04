@@ -12,7 +12,7 @@ $(document).ready(function () {
     }, 100)
 
     _hcwp = window._hcwp || [];
-    _hcwp.push({widget:"Stream", social:"facebook, vk, google, twitter", widget_id: 76380});
+    _hcwp.push({widget:"Stream", social:"facebook, vk, google, twitter", widget_id: 77534});
     (function() {
       HC_LOAD_INIT = true;
       var lang = "uk";
