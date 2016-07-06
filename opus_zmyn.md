@@ -1,6 +1,9 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Опис ключових змін  до проекту оновленої  програми  з природознавства
+1. [Опис ключових змін до проекту оновленої програми з природознавства](#opus)
+2. [Детальна таблиця з коментарями до програм та зворотнім зв’язком модераторів](#table)
+
+#### Опис ключових змін  до проекту оновленої  програми  з природознавства {#opus}
 
 <b>Модератори:</b><br>
 <i><b>Біда Дарія Дмитрівна</b>, доцент кафедри педагогіки Львівського обласного інституту післядипломної освіти;</i><br>
@@ -210,6 +213,13 @@
   </tr>
 </table>
 
+#### Детальна таблиця з коментарями до програм та зворотнім зв’язком модераторів{#table}
+
+Для того, щоб детально ознайомитися з врахованими/неврахованими коментарями дописувачів на EdEra під час першого етапу обговорення, перейдіть за посиланням. 
+<br>
+<form align="center">
+  <button><a href="https://docs.google.com/document/d/1ds6zDPZu0NZ-9m6ALi3h19P2XjMuzTv2DE3HyzgLRsA/edit">Таблиця з коментарями</a></button>
+</form>
 
 <div class="js-hypercomments-container">
 <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
