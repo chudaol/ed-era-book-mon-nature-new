@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-Вплив Сонця на природу і погоду на Землі
+Спостереження за порами року
 =============================================
 
 <table>
