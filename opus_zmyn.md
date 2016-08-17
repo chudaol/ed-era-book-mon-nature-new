@@ -24,7 +24,7 @@
   <tr>
     <td width="5%" align="center"><b>№<b></td>
     <td width="38%" align="center"><b>Зміст навчального матеріалу<b></td>
-    <td width="57%" align="center"><b>Державні вимоги до рівня загальноосвітньої підготовки учнів</b></td>
+    <td width="57%" align="center"><b>Державні вимоги до навчальних досягнень учня/учениці</b></td>
   </tr>
   <tr>
     <td width="5%" align="center" style="vertical-align:top !important;" colspan="3"><b>Загальні</b></td>
@@ -52,7 +52,7 @@
   <tr>
     <td width="5%" align="center" style="vertical-align:top !important;">5.</td>
     <td width="38%" style="vertical-align:top !important;">Державні вимоги не відповідають віковим особливостям.</td>
-    <td width="57%" style="vertical-align:top !important;"><b>Враховано.</b> Державні вимоги до рівня загальноосвітньої підготовки учнів приведено у відповідність до вимог Державного стандарту.</td>
+    <td width="57%" style="vertical-align:top !important;"><b>Враховано.</b> Державні вимоги до навчальних досягнень учня/учениці приведено у відповідність до вимог Державного стандарту.</td>
   </tr>
   <tr>
     <td width="5%" align="center" style="vertical-align:top !important;" colspan="3"><b>1 клас</b></td>
@@ -60,7 +60,7 @@
   <tr>
     <td width="5%" align="center" style="vertical-align:top !important;">6.</td>
     <td width="38%" style="vertical-align:top !important;">Зміст навчального матеріалу та державні вимоги вступної частини привести у відповідність до вікових особливостей.</td>
-    <td width="57%" style="vertical-align:top !important;"><b>Враховано.</b> Зміст навчального матеріалу та державні вимоги до рівня загальноосвітньої підготовки учнів приведено у відповідність до вікових особливостей.</td>
+    <td width="57%" style="vertical-align:top !important;"><b>Враховано.</b> Зміст навчального матеріалу та Державні вимоги до навчальних досягнень учня/учениці приведено у відповідність до вікових особливостей.</td>
   </tr>
   <tr>
     <td width="5%" align="center" style="vertical-align:top !important;">7.</td>
@@ -114,7 +114,7 @@
   <tr>
     <td width="5%" align="center" style="vertical-align:top !important;">16.</td>
     <td width="38%" style="vertical-align:top !important;">Розвантажити зміст навчального матеріалу в кожному розділі.</td>
-    <td width="57%" style="vertical-align:top !important;"><b>Враховано.</b> Зміст навчального матеріалу в розділах упорядковано та приведено у відповідність до вікових особливостей молодших школярів. Державні вимоги до рівня загальноосвітньої підготовки учнів приведено у відповідність до вимог Державного стандарту.</td>
+    <td width="57%" style="vertical-align:top !important;"><b>Враховано.</b> Зміст навчального матеріалу в розділах упорядковано та приведено у відповідність до вікових особливостей молодших школярів. Державні вимоги до навчальних досягнень учня/учениці приведено у відповідність до вимог Державного стандарту.</td>
   </tr>
   <tr>
     <td width="5%" align="center" style="vertical-align:top !important;">17.</td>
